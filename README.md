@@ -10,7 +10,7 @@ don't forget to adapt the scss files, you probably only need the .container part
 
 ```JavaScript
   import blueRain from './path/to/blueRain'
-  import './path/to/blueRain'
+  import './path/to/blueRain.scss' // Or just copy the part of the scss you need in your own scss
 ```
 
 ```JavaScript
